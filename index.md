@@ -1,5 +1,5 @@
 # This is meddy 
-![Meddy](git push --set-upstream origin add-read-me)
+![Meddy](Meddy.jpg)
 
 ## We used him for the diamond hacks hackathon
 
