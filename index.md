@@ -21,7 +21,7 @@ Here is one of my favorite songs [Frontal Lobe Muzik](https://open.spotify.com/t
 
 Anyways remember Meddy? lets visit him again: [Link Text](#this-is-meddy).
 
-[Here is my Favorite Coding Language!](docs/README.md)
+[Here is my Favorite Coding Language!](README.md)
 
 3 of my favorite pokemon starters
 - mudkip
